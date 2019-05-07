@@ -1,0 +1,8 @@
+Grid Size: 1
+Rounds: 10000
+Player A Wins: 0
+Player B Wins: 10000
+Player A Score: 0
+Player B Score: 10000
+Winning Player Rate: 1
+Winning Player Scores Percentage: 1

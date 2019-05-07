@@ -1,0 +1,16 @@
+Multiple Play Report
+Player A is Random Player. Player B is Winning Player.
+Total number of rounds played: 1000
+Overall average score: 4.5
+A's average score: 0.715
+B's average score: 8.285
+Overall median score: 5
+A's median score: 0
+B's median score: 9
+A's highest score: 5
+A's lowest score: 0
+B's highest score: 9
+B's lowest score: 4
+Total number of round A wins: 5
+Total number of round A wins: 995
+Winning Player winning rate: 0.995

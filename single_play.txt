@@ -1,0 +1,626 @@
+Random Player First
+ 0     1     2     3
+                   |
+ 4     5     6     7
+                    
+ 8     9    10    11
+                    
+12    13    14    15
+Score is A:0 and B:0
+This is A's move.
+The move is: 3, 7
+No box was made.
+A will not go again.
+
+ 0     1     2     3
+                   |
+ 4     5     6     7
+                    
+ 8     9  - 10    11
+                    
+12    13    14    15
+Score is A:0 and B:0
+This is B's move.
+The move is: 9, 10
+No box was made.
+B will not go again.
+
+ 0     1     2     3
+                   |
+ 4     5     6     7
+       |            
+ 8     9  - 10    11
+                    
+12    13    14    15
+Score is A:0 and B:0
+This is A's move.
+The move is: 5, 9
+No box was made.
+A will not go again.
+
+ 0     1     2     3
+                   |
+ 4     5     6     7
+       |            
+ 8     9  - 10    11
+                    
+12    13    14  - 15
+Score is A:0 and B:0
+This is B's move.
+The move is: 14, 15
+No box was made.
+B will not go again.
+
+ 0     1     2     3
+       |           |
+ 4     5     6     7
+       |            
+ 8     9  - 10    11
+                    
+12    13    14  - 15
+Score is A:0 and B:0
+This is A's move.
+The move is: 1, 5
+No box was made.
+A will not go again.
+
+ 0     1     2     3
+       |           |
+ 4     5     6     7
+       |            
+ 8     9  - 10    11
+                   |
+12    13    14  - 15
+Score is A:0 and B:0
+This is B's move.
+The move is: 11, 15
+No box was made.
+B will not go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5     6     7
+       |            
+ 8     9  - 10    11
+                   |
+12    13    14  - 15
+Score is A:0 and B:0
+This is A's move.
+The move is: 0, 4
+No box was made.
+A will not go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5     6     7
+       |            
+ 8     9  - 10    11
+ |                 |
+12    13    14  - 15
+Score is A:0 and B:0
+This is B's move.
+The move is: 8, 12
+No box was made.
+B will not go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5     6     7
+       |            
+ 8     9  - 10  - 11
+ |                 |
+12    13    14  - 15
+Score is A:0 and B:0
+This is A's move.
+The move is: 10, 11
+No box was made.
+A will not go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5     6     7
+       |            
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:1
+This is B's move.
+The move is: 10, 14
+1 box was made.
+B will go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5     6  -  7
+       |            
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:1
+This is B's move.
+The move is: 6, 7
+No box was made.
+B will not go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5     6  -  7
+       |     |      
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:1
+This is A's move.
+The move is: 6, 10
+No box was made.
+A will not go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5     6  -  7
+       |     |  B  |
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:2
+This is B's move.
+The move is: 7, 11
+1 box was made.
+B will go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5  -  6  -  7
+       |  B  |  B  |
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:3
+This is B's move.
+The move is: 5, 6
+1 box was made.
+B will go again.
+
+ 0     1     2     3
+ |     |           |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:3
+This is B's move.
+The move is: 4, 8
+No box was made.
+B will not go again.
+
+ 0     1     2  -  3
+ |     |           |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:3
+This is A's move.
+The move is: 2, 3
+No box was made.
+A will not go again.
+
+ 0     1     2  -  3
+ |     |     |  B  |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:4
+This is B's move.
+The move is: 2, 6
+1 box was made.
+B will go again.
+
+ 0     1  -  2  -  3
+ |     |  B  |  B  |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8     9  - 10  - 11
+ |           |  B  |
+12    13    14  - 15
+Score is A:0 and B:5
+This is B's move.
+The move is: 1, 2
+1 box was made.
+B will go again.
+
+ 0     1  -  2  -  3
+ |     |  B  |  B  |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8     9  - 10  - 11
+ |           |  B  |
+12  - 13    14  - 15
+Score is A:0 and B:5
+This is B's move.
+The move is: 12, 13
+No box was made.
+B will not go again.
+
+ 0     1  -  2  -  3
+ |     |  B  |  B  |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8     9  - 10  - 11
+ |     |     |  B  |
+12  - 13    14  - 15
+Score is A:0 and B:5
+This is A's move.
+The move is: 9, 13
+No box was made.
+A will not go again.
+
+ 0     1  -  2  -  3
+ |     |  B  |  B  |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8     9  - 10  - 11
+ |     |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:6
+This is B's move.
+The move is: 13, 14
+1 box was made.
+B will go again.
+
+ 0     1  -  2  -  3
+ |     |  B  |  B  |
+ 4     5  -  6  -  7
+ |     |  B  |  B  |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:7
+This is B's move.
+The move is: 8, 9
+1 box was made.
+B will go again.
+
+ 0     1  -  2  -  3
+ |     |  B  |  B  |
+ 4  -  5  -  6  -  7
+ |  B  |  B  |  B  |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:8
+This is B's move.
+The move is: 4, 5
+1 box was made.
+B will go again.
+
+ 0  -  1  -  2  -  3
+ |  B  |  B  |  B  |
+ 4  -  5  -  6  -  7
+ |  B  |  B  |  B  |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:9
+This is B's move.
+The move is: 0, 1
+1 box was made.
+
+
+Winning Player First
+ 0     1     2     3
+                    
+ 4     5     6     7
+                    
+ 8     9    10    11
+       |            
+12    13    14    15
+Score is A:0 and B:0
+This is B's move.
+The move is: 9, 13
+No box was made.
+B will not go again.
+
+ 0     1  -  2     3
+                    
+ 4     5     6     7
+                    
+ 8     9    10    11
+       |            
+12    13    14    15
+Score is A:0 and B:0
+This is A's move.
+The move is: 1, 2
+No box was made.
+A will not go again.
+
+ 0     1  -  2     3
+             |      
+ 4     5     6     7
+                    
+ 8     9    10    11
+       |            
+12    13    14    15
+Score is A:0 and B:0
+This is B's move.
+The move is: 2, 6
+No box was made.
+B will not go again.
+
+ 0     1  -  2     3
+             |      
+ 4     5     6     7
+                    
+ 8     9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:0
+This is A's move.
+The move is: 13, 14
+No box was made.
+A will not go again.
+
+ 0  -  1  -  2     3
+             |      
+ 4     5     6     7
+                    
+ 8     9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:0
+This is B's move.
+The move is: 0, 1
+No box was made.
+B will not go again.
+
+ 0  -  1  -  2     3
+ |           |      
+ 4     5     6     7
+                    
+ 8     9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:0
+This is A's move.
+The move is: 0, 4
+No box was made.
+A will not go again.
+
+ 0  -  1  -  2     3
+ |           |      
+ 4     5     6     7
+                    
+ 8  -  9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:0
+This is B's move.
+The move is: 8, 9
+No box was made.
+B will not go again.
+
+ 0  -  1  -  2     3
+ |     |     |      
+ 4     5     6     7
+                    
+ 8  -  9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:0
+This is A's move.
+The move is: 1, 5
+No box was made.
+A will not go again.
+
+ 0  -  1  -  2     3
+ |     |  B  |      
+ 4     5  -  6     7
+                    
+ 8  -  9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:1
+This is B's move.
+The move is: 5, 6
+1 box was made.
+B will go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |      
+ 4  -  5  -  6     7
+                    
+ 8  -  9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:2
+This is B's move.
+The move is: 4, 5
+1 box was made.
+B will go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                    
+ 8  -  9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:2
+This is B's move.
+The move is: 3, 7
+No box was made.
+B will not go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9    10    11
+       |            
+12    13  - 14    15
+Score is A:0 and B:2
+This is A's move.
+The move is: 7, 11
+No box was made.
+A will not go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9    10  - 11
+       |            
+12    13  - 14    15
+Score is A:0 and B:2
+This is B's move.
+The move is: 10, 11
+No box was made.
+B will not go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9    10  - 11
+       |           |
+12    13  - 14    15
+Score is A:0 and B:2
+This is A's move.
+The move is: 11, 15
+No box was made.
+A will not go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9    10  - 11
+ |     |           |
+12    13  - 14    15
+Score is A:0 and B:2
+This is B's move.
+The move is: 8, 12
+No box was made.
+B will not go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9    10  - 11
+ |     |     |     |
+12    13  - 14    15
+Score is A:0 and B:2
+This is A's move.
+The move is: 10, 14
+No box was made.
+A will not go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9    10  - 11
+ |     |     |  B  |
+12    13  - 14  - 15
+Score is A:0 and B:3
+This is B's move.
+The move is: 14, 15
+1 box was made.
+B will go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9  - 10  - 11
+ |     |  B  |  B  |
+12    13  - 14  - 15
+Score is A:0 and B:4
+This is B's move.
+The move is: 9, 10
+1 box was made.
+B will go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+                   |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:5
+This is B's move.
+The move is: 12, 13
+1 box was made.
+B will go again.
+
+ 0  -  1  -  2     3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+       |           |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:5
+This is B's move.
+The move is: 5, 9
+No box was made.
+B will not go again.
+
+ 0  -  1  -  2  -  3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+       |           |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:5
+This is A's move.
+The move is: 2, 3
+No box was made.
+A will not go again.
+
+ 0  -  1  -  2  -  3
+ |  B  |  B  |     |
+ 4  -  5  -  6     7
+       |  B  |     |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:6
+This is B's move.
+The move is: 6, 10
+1 box was made.
+B will go again.
+
+ 0  -  1  -  2  -  3
+ |  B  |  B  |  B  |
+ 4  -  5  -  6  -  7
+       |  B  |  B  |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:8
+This is B's move.
+The move is: 6, 7
+2 boxes were made.
+B will go again.
+
+ 0  -  1  -  2  -  3
+ |  B  |  B  |  B  |
+ 4  -  5  -  6  -  7
+ |  B  |  B  |  B  |
+ 8  -  9  - 10  - 11
+ |  B  |  B  |  B  |
+12  - 13  - 14  - 15
+Score is A:0 and B:9
+This is B's move.
+The move is: 4, 8
+1 box was made.
+
+
